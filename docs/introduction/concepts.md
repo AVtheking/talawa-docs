@@ -27,11 +27,11 @@ There are many types of people who use Talawa either directly, or indirectly:
 
 #### Non-Administrators
 
-The main purpose of Talawa is to foster closer cooperation between communities of people working together for a common social cause. In Talawa, most would be either users or members.
+The main purpose of Talawa is to foster closer cooperation between communities of people working together for a common social cause. In Talawa, most would be either Non App Users or App Users.
 
-1. **Users**: These are people who indirectly use Talawa.
+1. **Non App Users**: These are people who indirectly use Talawa.They have not registered through Talawa application and were added by admin.These users do not have access of s features of the application.
    1. For example: People who may attend an event tracked in Talawa and have their information entered into the system as part of the attendance process.
-1. **Members**: These are people who directly use Talawa either with the mobile app, or as an administrator with Talawa Admin.
+1. **App Users**: These are people who directly use Talawa either with the mobile app, or as an administrator with Talawa Admin.They have access to all the features of the application.
    1. Members may register their Talawa mobile app with an organization within a community once the appropriate approvals have been given.
 
 The use of Talawa by users and members is managed by administrators.
